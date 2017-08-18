@@ -214,7 +214,7 @@
                 <div class="col-md-4 col-sm-4"> <a href="#" class="bottom-banner-img"><img src="images/ads-04.jpg" alt="bottom banner"> <span class="banner-overly"></span>
                         <div class="bottom-img-info">
                             <h3>Electronic</h3>
-                            <h6>Sed diam nonummy nibh euismod tincidunt</h6>
+                            <h6>2017 git push</h6>
                             <span class="shop-now-btn">Shop Now</span> </div>
                     </a> </div>
                 <div class="col-md-8 col-sm-8"> <a href="#" class="bottom-banner-img last"><img src="images/ads-05.jpg" alt="bottom banner"> <span class="banner-overly last"></span>
