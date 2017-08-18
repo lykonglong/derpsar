@@ -641,10 +641,10 @@
 
     @foreach($hotpromotion as $hotpromot)
 
-    {{--//alert("{{$hotpromot->expired}}");--}}
-            @endforeach
+    
+            
 
-    var dthen1 = new Date("{{$hotpromot->expired}}");
+    var dthen1 = new Date("{{$hotpromot->expired}}");@endforeach
     //var dthen1 = new Date("12/25/16 11:59:00 PM");
     start = Date();
     start_date = Date.parse(start);
