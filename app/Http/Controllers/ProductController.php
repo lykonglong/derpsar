@@ -26,8 +26,5 @@ class ProductController extends Controller
         return view('product/index',compact('product','specialproduct','slider','category','hotproduct1','hotproduct2','hotproduct3','hotproduct4','hotpromotion'));
     }
 
-//    public function hotpromot(){
-//$hotpromotion= DB::table('promotions')->where('expired','>','now()')->orderBy('discount','desc')->limit(1)->get();
-//return view('layout/main',compact('hotpromotion'));
-//}
+
 }
